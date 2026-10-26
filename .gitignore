@@ -1,0 +1,37 @@
+# macOS
+.DS_Store
+
+# Xcode user settings
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+
+# Build products
+DerivedData/
+build/
+*.xcresult
+*.ipa
+*.dSYM
+*.dSYM.zip
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# User data and backups (never commit)
+backups/
+*backup*.json
+*Backup*.json
+*バックアップ*.json
+*.store
+*.store-shm
+*.store-wal
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+
+# Secrets / local settings
+*.xcconfig.local
+.env
+.claude/settings.local.json
