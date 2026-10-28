@@ -14,6 +14,7 @@
 		32BE153A308F3EE00040EA0A /* WeeklyMenuTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32BE1539308F3EE00040EA0A /* WeeklyMenuTests.swift */; };
 		32BE15A2308F3EE00040EA0A /* D006StorageFormatTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32BE15A1308F3EE00040EA0A /* D006StorageFormatTests.swift */; };
 		32BE15A4308F3EE00040EA0A /* D007AutosaveTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32BE15A3308F3EE00040EA0A /* D007AutosaveTests.swift */; };
+		32BE15A6308F3EE00040EA0A /* D008TransactionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32BE15A5308F3EE00040EA0A /* D008TransactionTests.swift */; };
 		32BE1544308F3EE00040EA0A /* WeeklyMenuUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32BE1543308F3EE00040EA0A /* WeeklyMenuUITests.swift */; };
 		32BE1546308F3EE00040EA0A /* WeeklyMenuUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32BE1545308F3EE00040EA0A /* WeeklyMenuUITestsLaunchTests.swift */; };
 /* End PBXBuildFile section */
@@ -45,6 +46,7 @@
 		32BE1539308F3EE00040EA0A /* WeeklyMenuTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "WeeklyMenuTests.swift"; sourceTree = "<group>"; };
 		32BE15A1308F3EE00040EA0A /* D006StorageFormatTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = D006StorageFormatTests.swift; sourceTree = "<group>"; };
 		32BE15A3308F3EE00040EA0A /* D007AutosaveTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = D007AutosaveTests.swift; sourceTree = "<group>"; };
+		32BE15A5308F3EE00040EA0A /* D008TransactionTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = D008TransactionTests.swift; sourceTree = "<group>"; };
 		32BE153F308F3EE00040EA0A /* 週献立めもUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "週献立めもUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		32BE1543308F3EE00040EA0A /* WeeklyMenuUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "WeeklyMenuUITests.swift"; sourceTree = "<group>"; };
 		32BE1545308F3EE00040EA0A /* WeeklyMenuUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "WeeklyMenuUITestsLaunchTests.swift"; sourceTree = "<group>"; };
@@ -120,6 +122,7 @@
 				32BE1539308F3EE00040EA0A /* WeeklyMenuTests.swift */,
 				32BE15A1308F3EE00040EA0A /* D006StorageFormatTests.swift */,
 				32BE15A3308F3EE00040EA0A /* D007AutosaveTests.swift */,
+				32BE15A5308F3EE00040EA0A /* D008TransactionTests.swift */,
 			);
 			path = "週献立めもTests";
 			sourceTree = "<group>";
@@ -275,6 +278,7 @@
 				32BE153A308F3EE00040EA0A /* WeeklyMenuTests.swift in Sources */,
 				32BE15A2308F3EE00040EA0A /* D006StorageFormatTests.swift in Sources */,
 				32BE15A4308F3EE00040EA0A /* D007AutosaveTests.swift in Sources */,
+				32BE15A6308F3EE00040EA0A /* D008TransactionTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
